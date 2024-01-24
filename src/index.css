@@ -5,7 +5,7 @@
 /*-----Font Controls-----*/
 @font-face {
   font-family: "orbitron-black";
-  src: url("../fonts/orbitron-black.otf"), url("../fonts/orbitron-black.otf"); /* IE */
+  /* src: url("src/assets/orbitron-medium.otf"); */
 }
 
 h1,
