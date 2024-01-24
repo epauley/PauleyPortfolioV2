@@ -1,8 +1,35 @@
-# React + Vite
+# PauleyPortfolioV2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio.
 
-Currently, two official plugins are available:
+## Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Vite | React | Javascript | BootStrap | SASS
+
+## Setup Instructions
+
+```sh
+git clone git@github.com:epauley/PauleyPortfolioV2.git
+cd PauleyPortfolioV2
+npm i
+```
+
+## Active Development
+
+Run this command while developing. This will watch for changes and automatically refresh the page made to the source files.
+
+```sh
+npm run dev
+```
+
+## Deploy to Github Development
+
+Commit changes and then run...
+
+```sh
+npm run deploy
+```
+
+## Stop Server
+
+Press ctrl-c to stop
